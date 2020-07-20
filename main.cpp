@@ -1799,7 +1799,7 @@ int main(int argc, char** argv) {
 	glutInit(&argc, argv);
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
 	glutInitWindowSize(1000, 600);
-	glutCreateWindow("Tugas OpenGL - Koala");
+	glutCreateWindow("Koala Epic");
 	myInit();
 	glutDisplayFunc(display);
 	glutReshapeFunc(reshape);
