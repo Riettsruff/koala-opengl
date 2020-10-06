@@ -1,1 +1,2 @@
-# koala-opengl
+# Koala
+Make it use OpenGL
